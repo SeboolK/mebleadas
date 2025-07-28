@@ -1,6 +1,7 @@
 {
   "rewrites": [
-    { "source": "/kuchnia", "destination": "/kuchnia.html" },
+    { "source": "", "destination": "/index.html" },
+    { "source": "/kuchnie", "destination": "/kuchnie.html" },
     { "source": "/oferta", "destination": "/oferta.html" },
     { "source": "/szafy", "destination": "/szafy.html" },
     { "source": "/krzesla", "destination": "/krzesla.html" },
