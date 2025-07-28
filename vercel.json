@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/kuchnia", "destination": "/kuchnia.html" },
+    { "source": "/oferta", "destination": "/oferta.html" },
+    { "source": "/szafy", "destination": "/szafy.html" },
+    { "source": "/krzesla", "destination": "/krzesla.html" },
+    { "source": "/stoly", "destination": "/stoly.html" },
+    { "source": "/uslugi", "destination": "/uslugi.html" },
+    { "source": "/kontakt", "destination": "/kontakt.html" }
+  ]
+}
