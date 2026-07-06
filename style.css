@@ -1463,3 +1463,106 @@ body.page-exit {
     transform: none;
   }
 }
+
+/* === Nowe galerie realizacji === */
+.product-hero {
+  padding: 90px 20px 45px;
+  text-align: center;
+  background: linear-gradient(180deg, #f7f5f1 0%, #ffffff 100%);
+}
+
+.product-hero h1 {
+  color: #222;
+  font-size: 2.8rem;
+  margin: 0 0 18px;
+}
+
+.product-hero p {
+  color: #555;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 760px;
+}
+
+.product-gallery {
+  background: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.product-gallery h2 {
+  color: #222;
+  font-size: 2.2rem;
+  margin: 0 0 10px;
+}
+
+.gallery-intro {
+  color: #666;
+  margin: 0 auto 34px;
+  max-width: 680px;
+}
+
+.gallery-masonry {
+  column-count: 4;
+  column-gap: 14px;
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+.gallery-masonry img {
+  background: #eee;
+  border-radius: 6px;
+  display: block;
+  margin-bottom: 14px;
+  width: 100%;
+}
+
+.product-features {
+  background: #f5f5f5;
+  padding: 70px 20px;
+  text-align: center;
+}
+
+.product-features h2 {
+  color: #222;
+  font-size: 2.4rem;
+  margin: 0 0 40px;
+}
+
+@media (max-width: 1100px) {
+  .gallery-masonry {
+    column-count: 3;
+  }
+}
+
+@media (max-width: 760px) {
+  .gallery-masonry {
+    column-count: 2;
+  }
+
+  .product-hero h1 {
+    font-size: 2.1rem;
+  }
+}
+
+@media (max-width: 520px) {
+  .gallery-masonry {
+    column-count: 1;
+  }
+}
+
+.categories-grid-wide .category-name,
+.offer-list-wide span {
+  line-height: 1.15;
+  max-width: 90%;
+  white-space: normal;
+}
+
+.categories-grid-wide {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.offer-section .offer-list.offer-list-wide {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
