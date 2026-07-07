@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-{
+﻿{
   "rewrites": [
     { "source": "/home", "destination": "/index.html" },
     { "source": "/kuchnie", "destination": "/kuchnie.html" },
-=======
-{
-  "rewrites": [
-    { "source": "/home", "destination": "/index.html" },
-    { "source": "/kuchnie", "destination": "/kuchnie.html" },
->>>>>>> fb1de50b77ca3ea775b33a327b377e3dcfbec8de
     { "source": "/oferta", "destination": "/oferta.html" },
     { "source": "/szafy", "destination": "/szafy.html" },
     { "source": "/krzesla", "destination": "/krzesla.html" },
@@ -17,12 +10,6 @@
     { "source": "/biurka-stoly", "destination": "/biurka-stoly.html" },
     { "source": "/przedpokoje", "destination": "/przedpokoje.html" },
     { "source": "/uslugi", "destination": "/uslugi.html" },
-<<<<<<< HEAD
     { "source": "/kontakt", "destination": "/kontakt.html" }
   ]
 }
-=======
-    { "source": "/kontakt", "destination": "/kontakt.html" }
-  ]
-}
->>>>>>> fb1de50b77ca3ea775b33a327b377e3dcfbec8de
