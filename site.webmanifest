@@ -1,0 +1,14 @@
+{
+  "name": "Meble Adaś",
+  "short_name": "Meble Adaś",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#2a2a2c",
+  "background_color": "#f8f8f8",
+  "display": "standalone"
+}

@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    { "source": "/home", "destination": "/index.html" },
+    { "source": "/kuchnie", "destination": "/kuchnie.html" },
+    { "source": "/oferta", "destination": "/oferta.html" },
+    { "source": "/szafy", "destination": "/szafy.html" },
+    { "source": "/krzesla", "destination": "/krzesla.html" },
+    { "source": "/stoly", "destination": "/stoly.html" },
+    { "source": "/meble-pokojowe", "destination": "/meble-pokojowe.html" },
+    { "source": "/biurka-stoly", "destination": "/biurka-stoly.html" },
+    { "source": "/przedpokoje", "destination": "/przedpokoje.html" },
+    { "source": "/uslugi", "destination": "/uslugi.html" },
+    { "source": "/kontakt", "destination": "/kontakt.html" }
+  ]
+}

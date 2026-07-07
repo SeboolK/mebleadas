@@ -1,0 +1,1157 @@
+﻿[
+    {
+        "category":  "kuchnie",
+        "source":  "6.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-001.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "7.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-002.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "25.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-003.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "29.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-004.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "85.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-005.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "86.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-006.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "147.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-007.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "157.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-008.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "158.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-009.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "159.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-010.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "203.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-011.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "204.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-012.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "213.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-013.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "214.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-014.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "215.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-015.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "216.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-016.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "217.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-017.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "218.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-018.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "219.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-019.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "220.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-020.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "221.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-021.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "222.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-022.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "223.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-023.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "224.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-024.jpg"
+    },
+    {
+        "category":  "kuchnie",
+        "source":  "225.jpg",
+        "output":  "img/realizacje/kuchnie/kuchnie-025.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "8.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-001.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "9.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-002.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "10.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-003.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "11.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-004.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "12.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-005.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "13.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-006.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "16.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-007.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "17.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-008.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "18.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-009.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "19.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-010.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "20.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-011.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "24.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-012.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "26.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-013.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "27.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-014.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "28.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-015.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "30.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-016.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "33.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-017.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "34.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-018.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "35.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-019.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "36.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-020.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "41.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-021.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "43.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-022.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "44.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-023.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "45.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-024.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "46.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-025.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "47.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-026.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "48.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-027.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "49.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-028.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "50.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-029.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "51.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-030.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "52.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-031.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "53.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-032.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "57.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-033.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "58.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-034.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "59.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-035.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "60.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-036.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "61.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-037.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "62.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-038.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "63.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-039.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "64.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-040.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "65.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-041.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "66.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-042.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "67.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-043.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "68.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-044.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "69.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-045.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "70.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-046.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "71.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-047.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "72.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-048.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "73.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-049.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "76.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-050.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "77.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-051.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "88.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-052.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "89.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-053.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "90.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-054.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "91.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-055.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "92.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-056.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "100.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-057.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "101.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-058.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "102.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-059.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "107.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-060.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "108.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-061.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "109.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-062.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "110.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-063.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "115.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-064.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "116.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-065.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "117.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-066.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "118.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-067.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "119.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-068.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "120.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-069.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "121.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-070.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "128.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-071.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "129.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-072.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "130.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-073.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "131.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-074.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "132.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-075.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "133.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-076.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "134.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-077.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "135.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-078.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "136.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-079.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "137.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-080.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "142.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-081.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "143.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-082.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "145.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-083.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "146.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-084.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "148.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-085.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "149.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-086.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "150.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-087.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "151.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-088.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "152.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-089.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "153.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-090.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "154.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-091.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "155.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-092.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "156.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-093.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "163.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-094.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "164.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-095.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "173.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-096.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "174.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-097.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "178.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-098.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "179.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-099.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "185.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-100.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "188.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-101.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "189.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-102.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "190.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-103.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "200.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-104.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "205.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-105.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "206.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-106.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "207.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-107.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "210.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-108.jpg"
+    },
+    {
+        "category":  "szafy-garderoby",
+        "source":  "212.jpg",
+        "output":  "img/realizacje/szafy-garderoby/szafy-garderoby-109.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "14.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-001.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "15.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-002.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "21.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-003.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "22.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-004.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "23.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-005.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "32.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-006.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "37.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-007.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "38.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-008.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "39.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-009.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "40.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-010.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "42.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-011.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "54.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-012.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "55.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-013.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "56.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-014.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "74.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-015.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "78.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-016.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "79.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-017.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "80.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-018.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "81.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-019.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "82.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-020.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "83.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-021.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "84.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-022.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "87.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-023.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "96.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-024.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "97.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-025.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "104.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-026.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "106.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-027.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "112.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-028.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "114.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-029.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "122.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-030.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "123.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-031.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "124.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-032.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "125.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-033.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "126.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-034.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "127.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-035.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "138.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-036.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "139.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-037.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "140.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-038.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "144.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-039.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "160.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-040.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "165.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-041.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "166.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-042.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "167.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-043.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "168.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-044.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "169.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-045.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "170.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-046.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "180.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-047.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "181.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-048.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "182.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-049.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "183.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-050.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "184.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-051.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "191.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-052.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "192.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-053.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "199.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-054.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "201.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-055.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "202.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-056.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "208.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-057.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "209.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-058.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "227.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-059.jpg"
+    },
+    {
+        "category":  "meble-pokojowe",
+        "source":  "229.jpg",
+        "output":  "img/realizacje/meble-pokojowe/meble-pokojowe-060.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "31.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-001.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "75.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-002.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "98.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-003.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "99.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-004.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "103.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-005.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "105.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-006.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "111.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-007.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "113.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-008.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "141.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-009.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "161.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-010.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "162.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-011.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "175.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-012.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "176.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-013.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "177.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-014.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "193.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-015.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "197.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-016.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "198.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-017.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "211.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-018.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "226.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-019.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "228.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-020.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "230.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-021.jpg"
+    },
+    {
+        "category":  "biurka-stoly",
+        "source":  "231.jpg",
+        "output":  "img/realizacje/biurka-stoly/biurka-stoly-022.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "1.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-001.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "2.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-002.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "3.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-003.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "4.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-004.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "5.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-005.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "93.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-006.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "94.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-007.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "95.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-008.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "171.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-009.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "172.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-010.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "186.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-011.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "187.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-012.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "194.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-013.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "195.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-014.jpg"
+    },
+    {
+        "category":  "przedpokoje-zabudowy",
+        "source":  "196.jpg",
+        "output":  "img/realizacje/przedpokoje-zabudowy/przedpokoje-zabudowy-015.jpg"
+    }
+]

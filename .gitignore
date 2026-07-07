@@ -1,0 +1,7 @@
+.agents/
+.codex/
+.git-local/
+contact-sheets/
+img/[0-9].jpg
+img/[0-9][0-9].jpg
+img/[0-9][0-9][0-9].jpg
