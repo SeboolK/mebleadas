@@ -1,0 +1,563 @@
+:root {
+  --bg: #f7f1e8;
+  --dark: #17120e;
+  --brown: #6b4328;
+  --gold: #b98b4b;
+  --white: #fff;
+  --muted: #786b5e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Segoe UI, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--dark);
+}
+
+img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.card img,
+.gallery img,
+.offer-grid img,
+.mini-gallery img {
+  background: #ded3c7;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 7%;
+  background: rgba(247,241,232,.88);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(107,67,40,.12);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.logo span,
+.eyebrow {
+  color: var(--gold);
+}
+
+nav {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+
+.nav-cta,
+.btn {
+  background: var(--dark);
+  color: white;
+  padding: 13px 22px;
+  border-radius: 999px;
+  display: inline-block;
+  border: 0;
+  cursor: pointer;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 35px rgba(23,18,14,.18);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.ghost {
+  background: transparent;
+  color: var(--dark);
+  border: 1px solid var(--dark);
+}
+
+.hamb {
+  display: none;
+}
+
+.hero {
+  min-height: 86vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+  padding: 70px 7%;
+}
+
+.hero h1,
+.page-head h1 {
+  font-size: clamp(42px,6vw,78px);
+  line-height: .95;
+  margin: 10px 0;
+}
+
+.hero p,
+.page-head p {
+  font-size: 19px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.actions {
+  display: flex;
+  gap: 14px;
+  margin-top: 28px;
+}
+
+.hero-card {
+  position: relative;
+}
+
+.hero-card img {
+  height: 620px;
+  border-radius: 34px;
+  box-shadow: 0 30px 70px rgba(57,35,20,.22);
+}
+
+.badge {
+  position: absolute;
+  left: 24px;
+  bottom: 24px;
+  background: white;
+  padding: 18px 24px;
+  border-radius: 18px;
+  font-weight: 700;
+}
+
+.section,
+.page-head {
+  padding: 80px 7%;
+  text-align: center;
+}
+
+.section h2,
+.split h2,
+.cta h2 {
+  font-size: clamp(32px,4vw,52px);
+  margin: 8px 0 34px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 24px;
+}
+
+.card {
+  background: white;
+  border-radius: 28px;
+  overflow: hidden;
+  text-align: left;
+  box-shadow: 0 18px 45px rgba(107,67,40,.10);
+  transition: .3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+}
+
+.card img {
+  height: 270px;
+}
+
+.card h3,
+.card p {
+  padding: 0 24px;
+}
+
+.card p {
+  padding-bottom: 26px;
+  color: var(--muted);
+}
+
+.split {
+  margin: 40px 7%;
+  padding: 55px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 42px;
+  background: #211813;
+  color: white;
+  border-radius: 36px;
+}
+
+.split img {
+  height: 460px;
+  border-radius: 26px;
+}
+
+.ticks {
+  line-height: 2;
+  color: #eadfd0;
+}
+
+.cta {
+  margin: 80px 7%;
+  padding: 70px;
+  background: linear-gradient(135deg,#2b1b12,#8b5a34);
+  color: white;
+  border-radius: 36px;
+  text-align: center;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 16px;
+}
+
+.gallery img {
+  height: 260px;
+  border-radius: 22px;
+}
+
+.offer-grid {
+  padding: 20px 7% 80px;
+  display: grid;
+  gap: 26px;
+}
+
+.offer-grid article,
+.offer-card {
+  display: grid;
+  grid-template-columns: 420px 1fr;
+  background: white;
+  border-radius: 30px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.offer-grid article:hover,
+.offer-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 18px 45px rgba(107,67,40,.14);
+}
+
+.offer-grid img {
+  height: 300px;
+}
+
+.mini-gallery {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.mini-gallery img {
+  height: 96px;
+  border-radius: 14px;
+}
+
+.offer-grid div {
+  padding: 46px;
+}
+
+.steps {
+  padding: 30px 7% 80px;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 20px;
+}
+
+.steps div {
+  background: white;
+  padding: 34px;
+  border-radius: 26px;
+}
+
+.steps span {
+  color: var(--gold);
+  font-weight: 900;
+  font-size: 34px;
+}
+
+.contact {
+  padding: 80px 7%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 46px;
+}
+
+.contact h1 {
+  font-size: 58px;
+}
+
+.contact-box,
+form {
+  background: white;
+  padding: 34px;
+  border-radius: 28px;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  margin-bottom: 14px;
+  padding: 16px;
+  border: 1px solid #ded3c7;
+  border-radius: 14px;
+  font: inherit;
+}
+
+.map {
+  margin: 0 7% 80px;
+  height: 340px;
+  border-radius: 28px;
+  background: #ded3c7;
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+}
+
+footer {
+  text-align: center;
+  padding: 44px 7%;
+  background: var(--dark);
+  color: white;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: 1s;
+}
+
+.reveal.show {
+  opacity: 1;
+  transform: none;
+}
+
+/* Album zdjęć */
+.album-grid {
+  padding: 20px 7% 90px;
+  column-count: 4;
+  column-gap: 18px;
+  opacity: 1 !important;
+  transform: none !important;
+  visibility: visible !important;
+}
+
+.album-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  break-inside: avoid;
+  margin: 0 0 18px;
+  border-radius: 24px;
+  cursor: pointer;
+  background: #ded3c7;
+  transition: .3s;
+  opacity: 1;
+}
+
+.album-grid img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 18px 45px rgba(107,67,40,.18);
+}
+
+.album-empty {
+  column-span: all;
+  text-align: center;
+  color: var(--muted);
+  font-size: 20px;
+}
+
+/* Podgląd zdjęcia po kliknięciu */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: none;
+  place-items: center;
+  padding: 28px;
+  background: rgba(23,18,14,.88);
+}
+
+.lightbox.open {
+  display: grid;
+}
+
+.lightbox img {
+  max-width: min(1100px, 86vw);
+  max-height: 82vh;
+  width: auto;
+  height: auto;
+  border-radius: 18px;
+  box-shadow: 0 30px 80px rgba(0,0,0,.35);
+}
+
+.lightbox button {
+  position: fixed;
+  border: 0;
+  cursor: pointer;
+  color: white;
+  background: rgba(255,255,255,.16);
+  backdrop-filter: blur(10px);
+}
+
+.lightbox-close {
+  top: 24px;
+  right: 28px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 34px;
+  line-height: 1;
+}
+
+.lightbox-prev,
+.lightbox-next {
+  top: 50%;
+  width: 52px;
+  height: 72px;
+  border-radius: 999px;
+  font-size: 34px;
+  transform: translateY(-50%);
+}
+
+.lightbox-prev {
+  left: 28px;
+}
+
+.lightbox-next {
+  right: 28px;
+}
+
+.lightbox-count {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translateX(-50%);
+  color: white;
+  font-weight: 700;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+@media(min-width:851px) and (max-width:1200px) {
+  .cards {
+    grid-template-columns: repeat(2,1fr);
+  }
+
+  .album-grid {
+    column-count: 2;
+  }
+}
+
+@media(max-width:850px) {
+  .mini-gallery {
+    grid-template-columns: repeat(3,1fr);
+  }
+
+  .mini-gallery img {
+    height: 82px;
+  }
+
+  .hamb {
+    display: block;
+    background: none;
+    border: 0;
+    font-size: 28px;
+  }
+
+  nav {
+    display: none;
+    position: absolute;
+    top: 68px;
+    left: 0;
+    right: 0;
+    background: var(--bg);
+    padding: 24px;
+    flex-direction: column;
+  }
+
+  .nav.open nav {
+    display: flex;
+  }
+
+  .hero,
+  .split,
+  .contact {
+    grid-template-columns: 1fr;
+    padding: 45px 6%;
+    margin: 0;
+  }
+
+  .cards,
+  .steps,
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .offer-grid article,
+  .offer-card {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-card img {
+    height: 430px;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+
+  .contact h1 {
+    font-size: 42px;
+  }
+
+  .album-grid {
+    column-count: 1;
+  }
+
+  .album-grid img {
+    height: auto;
+  }
+
+  .lightbox {
+    padding: 18px;
+  }
+
+  .lightbox-prev {
+    left: 10px;
+  }
+
+  .lightbox-next {
+    right: 10px;
+  }
+
+  .lightbox img {
+    max-width: 92vw;
+    max-height: 76vh;
+  }
+}
